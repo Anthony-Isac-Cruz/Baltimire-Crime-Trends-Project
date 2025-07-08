@@ -1,9 +1,12 @@
 # 📘 README – Power BI Crime Trends Dashboard 
+
+Official Link to dashboard:[https://app.powerbi.com/links/qfQm4qrCBB?ctid=f4808e7e-31ab-436b-8c3e-16ee61a6c8f9&pbi_source=linkShare&bookmarkGuid=47656250-9e0d-41e7-a925-5375a86fe91c]
+
 ---
 
 ## 🧠 Overview
 
-Official Link to dashboard:[https://app.powerbi.com/links/qfQm4qrCBB?ctid=f4808e7e-31ab-436b-8c3e-16ee61a6c8f9&pbi_source=linkShare&bookmarkGuid=47656250-9e0d-41e7-a925-5375a86fe91c]
+
 
 This Power BI report analyzes crime patterns using a dataset named `CRIME_DATASET_CLEANED`. The goal is to understand how crimes vary over time, across demographics, and by offense types.
 
