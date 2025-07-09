@@ -10,11 +10,9 @@ Official Link to dashboard:[https://app.powerbi.com/links/qfQm4qrCBB?ctid=f4808e
 
 This Power BI report analyzes crime patterns using a dataset named `CRIME_DATASET_CLEANED`. The goal is to understand how crimes vary over time, across demographics, and by offense types.
 
-- **Page 1** – Focuses on high-level time and demographic trends& provides deeper contextual analysis with KPIs and advanced insights
-
 ---
 
-## 📊 Page 2 – Deep Dive & Tremd Overview with Measures
+## 📊 Page 1 – Deep Dive & Tremd Overview with Measures
 
 ### Visuals Created:
 
