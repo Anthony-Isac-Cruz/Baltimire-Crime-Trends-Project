@@ -10,36 +10,21 @@ Official Link to dashboard:[https://app.powerbi.com/links/qfQm4qrCBB?ctid=f4808e
 
 This Power BI report analyzes crime patterns using a dataset named `CRIME_DATASET_CLEANED`. The goal is to understand how crimes vary over time, across demographics, and by offense types.
 
-The report is split into two pages:
-
-- **Page 1** – Focuses on high-level time and demographic trends  
-- **Page 2** – Provides deeper contextual analysis with KPIs and advanced insights
+- **Page 1** – Focuses on high-level time and demographic trends& provides deeper contextual analysis with KPIs and advanced insights
 
 ---
 
-## 📊 Page 1 – Trend Overview
+## 📊 Page 2 – Deep Dive & Tremd Overview with Measures
 
 ### Visuals Created:
 
 1. **Line Chart** – Shows total crime trend over time (year and month)
-2. **Bar Chart** – Distribution of crimes by Time of Day
+2. **Matrix Table** – Breakdown of offenses by Gender and Age Group
 3. **Stacked Column Chart** – Monthly crime counts by Age Group
 4. **Donut Chart** – Gender share within each Offense Category
 
 ### Purpose:
 This page gives a broad overview of when and who is involved in crimes. It focuses on temporal patterns and surface-level demographic insights.
-
----
-
-## 📊 Page 2 – Deep Dive with Measures
-
-### Visuals Created:
-
-1. **KPI Cards** – Show total crimes, average age, median age, and trend indicators
-2. **Matrix Table** – Breakdown of offenses by Gender and Age Group
-3. **Table** – Month-by-month data with month-over-month changes
-4. **Line Chart** – Monthly crime trend with change rate overlay
-5. **Stacked Column Chart** – Time of Day breakdown by offense type
 
 ### Purpose:
 This page adds analytical depth:
@@ -95,14 +80,5 @@ To sort days (e.g., Monday–Sunday) properly in visuals:
 - Time intelligence built using a Date Table for flexibility
 - Used ALLEXCEPT and ALL functions in measures to ensure correct group-level calculations
 - Clear naming and formatting to ensure user-friendly visuals
-
----
-
-## 📈 Recommendations for Next Steps
-
-- Add slicers for filtering by weapon, district, or neighborhood
-- Introduce conditional formatting to highlight spikes or drops
-- Add a bookmarks panel to switch views between time, demographic, and offense perspectives
-- Publish to Power BI Service and set data refresh schedules
 
 ---
